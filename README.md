@@ -12,7 +12,7 @@ http://automationpractice.com/index.php
 Clone the repository
 
 ```bash
-git clone https://github.com/JayKishoreDuvvuri/WebdriverIO-CrossBrowser-Test-Automation-Framework
+git clone https://github.com/JayKishoreDuvvuri/WebdriverIO-Docker-Automation-Framework
 ```
 
 Folder Structure
