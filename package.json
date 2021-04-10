@@ -4,8 +4,7 @@
   "description": "WebdriverIO | Docker",
   "main": "index.js",
   "scripts": {
-    "selenium-server": "./node_modules/.bin/selenium-standalone start",
-    "test": "./node_modules/.bin/wdio wdio.conf.js"
+    "test": "npx wdio run wdio.conf.js"
   },
   "author": "Jay Kishore Duvvuri",
   "license": "ISC",
