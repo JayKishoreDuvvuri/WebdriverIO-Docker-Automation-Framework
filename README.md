@@ -9,7 +9,7 @@ http://automationpractice.com/index.php
 
 ## Run application
 
-Clone the repository
+Clone the repository 
 
 ```bash
 git clone https://github.com/JayKishoreDuvvuri/WebdriverIO-Docker-Automation-Framework
